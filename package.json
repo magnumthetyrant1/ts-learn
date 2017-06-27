@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Max-Andre Zils",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.7",
+    "typescript": "^2.3.4"
+  }
 }
